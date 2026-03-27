@@ -10,5 +10,5 @@ Following tutorials by Dave Gray (gitdagray)
 -Basic Python Synthax
 
 ## Notes
-This is a beginner learning project
-First committed on 26th March 2026
+""This is a beginner learning project
+First committed on 26th March 2026""
