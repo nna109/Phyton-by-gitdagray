@@ -6,9 +6,9 @@ Following tutorials by Dave Gray (gitdagray)
 
 ## What I'm Learning
 
--Variables
--String
--Basic Python Synthax
+- Variables
+- String
+- Basic Python Synthax
 
 
 ## Notes
