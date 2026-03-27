@@ -5,10 +5,16 @@ This repository contains my practice code while learning Python
 Following tutorials by Dave Gray (gitdagray)
 
 ## What I'm Learning
--Variables
--String
--Basic Python Synthax
+multiline="""
+Variables
+String
+Basic Python Synthax
+"""
+print(multiline)
 
 ## Notes
-""This is a beginner learning project
-First committed on 26th March 2026""
+multiline=""
+This is a beginner learning project
+First committed on 26th March 2026
+""
+print(multiline)
