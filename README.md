@@ -5,9 +5,9 @@ This repository contains my practice code while learning Python
 Following tutorials by Dave Gray (gitdagray)
 
 ## What I'm Learning
-Variables
-String
-Basic Python Synthax
+-Variables
+-String
+-Basic Python Synthax
 
 ## Notes
 This is a beginner learning project
