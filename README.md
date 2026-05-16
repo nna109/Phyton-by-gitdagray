@@ -16,5 +16,5 @@ Following tutorials by Dave Gray (gitdagray)
 - This is a beginner learning project, which was first committed on 26th March 2026
 - This repo was made without basic knowledge  (zero) of computational system or proper workflows.
 - Basically, I just edited this repo in this GitHub without using actual git code through Linux terminal.
-- I recenly learned the proper way from my labmate, Ibnu. He suggested following IanKorf GitHub repo (mcb185_homework).
+- I recenly learned the proper way from my labmate, Ibnu. He suggested following IanKorf GitHub repo (MCB185).
 - Currently learning this slowly.
