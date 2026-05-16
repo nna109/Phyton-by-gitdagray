@@ -13,7 +13,9 @@ Following tutorials by Dave Gray (gitdagray)
 
 ## Notes
 
-- This is a beginner learning project, which was first committed on 26th March 2026
+- This is a beginner learning project, which was first committed on 26th March 2026.
+- The codes I learned was committed in Jupyter Notebook using Anaconda environment.
+- The codes displayed in GitHub was a copy-paste code I generated from Jupyter Notebook. 
 - This repo was made without basic knowledge  (zero) of computational system or proper workflows.
 - Basically, I just edited this repo in this GitHub without using actual git code through Linux terminal.
 - I recenly learned the proper way from my labmate, Ibnu (15th May 2026). He suggested following IanKorf GitHub repo (MCB185).
